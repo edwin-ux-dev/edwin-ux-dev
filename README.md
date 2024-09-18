@@ -1,9 +1,8 @@
 👋 Hello, I'm Edwin Rojas
 
-👀 I'm interested in user experience design and software development.
+👀 I'm interested in  software development.
 🌱 I'm currently learning new technologies in software development.
-💞 I'm looking to collaborate on projects that combine UX design and development.
-📫 How to contact me: You can find me on my social networks or email.
+
 
 
 <!---
